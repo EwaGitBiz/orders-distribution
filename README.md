@@ -1,4 +1,5 @@
 # orders-distribution
+<img width="592" alt="image" src="https://github.com/user-attachments/assets/9a3d086f-dc28-49f8-9f56-dffde6658289" />
 
 ##**I have created a Power BI overview dashboard**
 
